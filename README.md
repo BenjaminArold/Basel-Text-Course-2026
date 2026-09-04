@@ -1,5 +1,5 @@
 # Summer-School-Lisbon-2026
-Materials for Summer School "Economic Analysis of Text and other Non-Standard Data" in Lisbon, July 2026.
+Materials for Summer Course "Text as Data in Economics" at ifo Institute, Munich, September 2026.
 
 Lecture materials will be uploaded here before each lecture.
 
