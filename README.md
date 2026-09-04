@@ -1,4 +1,4 @@
-# Summer-School-Lisbon-2026
+# Summer-Course-ifo-2026
 Materials for Summer Course "Text as Data in Economics" at ifo Institute, Munich, September 2026.
 
 Lecture materials will be uploaded here before each lecture.
