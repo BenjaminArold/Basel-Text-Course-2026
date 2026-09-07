@@ -1,5 +1,5 @@
-# Summer-Course-ifo-2026
-Materials for Summer Course "Text as Data in Economics" at ifo Institute, Munich, September 2026.
+# Text Data in Business and Economics - Basel University - 2026
+Materials for PhD/Master Course "Text Data in Business and Economics " at Basel University, September 2026.
 
 Lecture materials will be uploaded here before each lecture.
 
