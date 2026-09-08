@@ -1,5 +1,5 @@
 # Text Data in Business and Economics - Basel University - 2026
-Materials for PhD/Master Course "Text Data in Business and Economics " at Basel University, September 2026.
+Materials for PhD Course "Text Data in Business and Economics " at Basel University, September 2026.
 
 Lecture materials will be uploaded here before each lecture.
 
